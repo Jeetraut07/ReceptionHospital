@@ -1,3 +1,18 @@
+# 🎬AnimeHouse
+A simple reception system where receptionist store Patients data including Appointment details.Users with their registered account only are allowed as it is secured using Hospital's password for login.
+
+# 🔑Key Features
+- User Registration & Login.
+- Managing Patient data.
+- CRUD operations.
+- Appointment details.
+
+# 🚀Technology
+- Swing UI
+- Java
+- JDBC
+- MySQL Database
+
 ### 📸 Screenshots
 
 #### 🔐 Signup Page  
